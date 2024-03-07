@@ -1,5 +1,6 @@
-# Deeplearning_assignment_1
-Annika and Mikkels submission for assingment 1 in deep learning
+# Deep Learning Assignment 1: Architecture, Training and Hyperparameter Tuning of Traditional Deep Learning Models
+
+Annika and Mikkels submission for assignment 1 in Deep Learning
 
 We have chosen to work with a dataset about breast cancer found on Kaggle: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset.
 
