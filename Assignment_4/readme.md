@@ -1,3 +1,5 @@
+# AAUBSs Cand Merc Masters Chatbot
+
 In this assignment, we've made a chatbot for International Cand. Merc. Masters at AAU Business School:
 *  Business Data Science
 *  Finance
